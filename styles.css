@@ -1,0 +1,180 @@
+    h1 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+    h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+    h3 {
+  display: block;
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+    h4 {
+  display: block;
+  font-size: 1em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+    h5 {
+  display: block;
+  font-size: .83em;
+  margin-top: 1.67em;
+  margin-bottom: 1.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+    h6 {
+  display: block;
+  font-size: .67em;
+  margin-top: 2.33em;
+  margin-bottom: 2.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+/* image JS challenge */
+
+    img {
+	max-width: 100%;
+}
+
+    img.small {
+	width: 100px;
+}
+
+    #smart_thumbnail {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;;
+}
+
+    blockquote {
+  font: 18px Calibri, sans-serif;
+  text-align: justify;
+}
+
+    h2 {
+  border-left: 6px solid orange;
+}
+    
+    a {
+  color: orange;
+  font-weight: bold;
+}
+
+    iframe {
+  width: 50vw;
+}
+
+
+    header {
+  background-color: orange;
+  border-radius: 10px;
+  position: sticky;
+  top: 0;
+  width: 120%;
+  margin: -10%;
+}
+
+    footer {
+  background-color: rgb(238, 231, 230);
+  border-radius: 10px;
+  padding : 1px ;
+  text-align: center;
+  
+}
+
+    h1 {
+  text-align: center;
+}
+
+
+    a:hover {
+  color: red;
+  font-weight: bold;
+}
+
+    body {
+  font: 18px Calibri, sans-serif;
+}
+
+    .container {
+  max-width: 960px;
+  width: 90%;
+  margin: 0 auto;
+  background-color: white;
+}
+
+    .titre1 {
+  background-color: orange;
+  border-radius: 5px;
+  }
+  
+    .button {
+  background-color: rgb(238, 231, 230);
+  border: 2px solid orange;
+  color: orange;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+         
+    .button:hover {
+  background-color: orange;
+  color: white;
+}
+
+    .resizing {
+  resize: vertical;
+  overflow: auto;
+  height: 35px;
+  width: 500px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+    .git  {
+height : 50px;
+width : 50px;
+bottom : 0;
+right : 0;
+position: fixed;
+}
+
+    h3 {
+  text-align: center;
+}
