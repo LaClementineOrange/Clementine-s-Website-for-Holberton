@@ -5,3 +5,5 @@
 > 
 
 > https://laclementineorange.github.io/Clementine-s-Website-for-Holberton/
+
+https://tinyurl.com/clement-stage
